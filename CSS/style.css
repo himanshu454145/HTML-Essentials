@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html , body{
+    width: 100%;
+    height: 100%;
+}
+
+/* always write these above code before writing css code for element */
+
+
+
+/* styling the element directly*/
+h1{
+  color: blue;
+}
+
+/* styling the element with class red-color */
+.red-color{
+   color: red;
+}
+
+
+/* styling the element with ID green-color */
+#green-color{
+    color: green;
+}
+
+
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+}
